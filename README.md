@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://raw.githubusercontent.com/data-overflow/data-overflow/main/hiwi.gif)
+
 I'm a third year student with a geek towards computer science from an early age. I've worked on video games and random projects I find interesting, right from the age of 14.
 
 Skills include 
@@ -15,6 +17,8 @@ I believe advancing technology and scientific research is the way forward to pro
 
 Let's connect!
 https://data-overflow.github.io/
+
+![](https://raw.githubusercontent.com/data-overflow/data-overflow/main/mood.png)
 <!--
 **data-overflow/data-overflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

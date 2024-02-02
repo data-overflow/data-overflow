@@ -17,8 +17,6 @@ I believe advancing technology and scientific research is the way forward to pro
 
 Let's connect!
 https://data-overflow.github.io/
-
-![](https://raw.githubusercontent.com/data-overflow/data-overflow/main/mood.png)
 <!--
 **data-overflow/data-overflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

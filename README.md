@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![](https://raw.githubusercontent.com/data-overflow/data-overflow/main/hiwi.gif)
 
-I'm a third year student with a geek towards computer science from an early age. I've worked on video games and random projects I find interesting, right from the age of 14.
+I'm a final year student with a geek towards computer science from an early age. I've worked on video games and random projects I find interesting, right from the age of 14.
 
 Skills include 
 - **Programming Languages**: Python, JavaScript, C++, C#, GDScript

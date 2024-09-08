@@ -17,6 +17,8 @@ I believe advancing technology and scientific research is the way forward to pro
 
 Let's connect!
 https://dataoverflow.vercel.app
+
+<img src="https://komarev.com/ghpvc/?username=data-overflow&color=ff69b4" />
 <!--
 **data-overflow/data-overflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

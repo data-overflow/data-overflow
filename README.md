@@ -6,7 +6,8 @@ I'm a final year student with a geek towards computer science from an early age.
 Skills include 
 - **Programming Languages**: Python, JavaScript, C++, C#, GDScript
 - **Backend**: Flask, FastAPI, Django, Node+Express
-- **Frontend**: HTML/CSS, Svelte, SvelteKit, React, Tailwind 
+- **Frontend**: HTML/CSS, Svelte, SvelteKit, React, Tailwind
+- **Artificial Intelligence**: OpenAI Agents SDK, LangChain, Google Agent Development Kit
 - **Game Development**: Unity3D, Godot Engine, aseprite, famitracker, AR/VR
 - **Machine Learning**: scikit-learn, keras, Transformers
 - **App Development**: React Native, Capacitor
@@ -16,7 +17,9 @@ Apart from the above technical skills, I'm also passionate about learning behavi
 I believe advancing technology and scientific research is the way forward to progress humanity. And I'm working to do my part in adding value to the ecosystem.
 
 Let's connect!
-https://dataoverflow.vercel.app
+[dataoverflow.me](https://dataoverflow.me)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-overflow)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=data-overflow&base=2500" /> <!-- adding some base because ugh i added it at 08.09.2024 with 0 views -->
 <!--

@@ -19,7 +19,7 @@ I believe advancing technology and scientific research is the way forward to pro
 Let's connect!
 [dataoverflow.me](https://dataoverflow.me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-overflow&hide=ipynb,jupyternotebook,jupyternotebooks&langs_count=16&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-overflow&hide=ipynb,jupyternotebook,jupyternotebooks,Jupyter%20Notebook&langs_count=16&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://komarev.com/ghpvc/?username=data-overflow&base=2500" /> <!-- adding some base because ugh i added it at 08.09.2024 with 0 views -->
 <!--

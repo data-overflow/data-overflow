@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![](https://raw.githubusercontent.com/data-overflow/data-overflow/main/hiwi.gif)
+> I'm currently working at the Founder's Office @ Lyzr AI [(kavi-lyzr)](https://github.com/kavi-lyzr)
 
 I'm a recent graduate with a geek towards computer science from an early age. I've worked on video games and random projects I find interesting, right from the age of 14.
 
@@ -19,7 +20,7 @@ I believe advancing technology and scientific research is the way forward to pro
 Let's connect!
 [dataoverflow.me](https://dataoverflow.me)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-overflow&hide=ipynb,jupyternotebook,jupyternotebooks,Jupyter%20Notebook&langs_count=16&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=data-overflow&hide=ipynb,jupyternotebook,jupyternotebooks,Jupyter%20Notebook&langs_count=16&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <img src="https://komarev.com/ghpvc/?username=data-overflow&base=2500" /> <!-- adding some base because ugh i added it at 08.09.2024 with 0 views -->
 <!--
